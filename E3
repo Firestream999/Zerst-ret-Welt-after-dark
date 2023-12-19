@@ -1,0 +1,76 @@
+<html>
+	<head>
+		 <link rel='stylesheet' href='button_glow.css' />
+		  <link rel="stylesheet" href="style.css">
+	</head>
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meine Schöne Webseite</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #040404;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+	canvas {
+    display: block;
+    margin: auto;
+    border: 1px solid black;
+	}
+
+	#playbutton {
+		width: 100px;
+		height: 50px;
+		display: block;
+		margin: auto;
+		margin-top: 10px;
+		font-family: Arial, sans-serif;
+		font-size: 30px;
+		font-weight: bold;
+		background-color: white;
+		cursor: pointer;
+    </style>
+</head>
+<body>
+  <section class="navButtons">
+    <header>
+        <h1>Ende 3: Die Wiedergeburt der Technologie</h1>
+    </header>
+	<font color ="white">
+	<p>
+		Du öffnest die Tür und entdeckst eine alte, aber funktionierende Technologie. Durch deine Entdeckung erlebt die Welt einen technologischen Neuanfang, und du wirst als Pionier der Renaissance gefeiert.
+	</p>
+	</font>
+	<p>
+	</p>
+	
+	<div>
+  </section>
+</body>
+	<div class="container">
+	<center>
+	<img src="Post7.jpeg" height="1000" width="800">
+	</img>
+</html>
